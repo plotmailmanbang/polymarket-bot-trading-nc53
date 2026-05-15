@@ -1,4 +1,4 @@
-# 
+# Polymarket rare bot: leverage-trading & trailing-stops is the best Polymarket bot, featuring leverage-trading and trailing-stops. Smart, fast, and optimized for trading on
 
 
 
